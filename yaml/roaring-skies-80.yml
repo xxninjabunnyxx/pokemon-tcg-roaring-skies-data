@@ -1,0 +1,97 @@
+---
+id: xy6-80
+name: Unfezant
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '130'
+types:
+- Colorless
+evolvesFrom: Tranquill
+attacks:
+- name: Quick Attack
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: 30+
+  text: Flip a coin. If heads, this attack does 30 more damage.
+- name: Strong Winds
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: Shuffle all cards attached to each player's Pokémon into that player's deck.
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: xy6
+  name: Roaring Skies
+  series: XY
+  printedTotal: 108
+  total: 112
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: ROS
+  releaseDate: 2015/05/06
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy6/symbol.png
+    logo: https://images.pokemontcg.io/xy6/logo.png
+number: '80'
+artist: Shigenori Negishi
+rarity: Uncommon
+flavorText: Males have plumage on their heads. They will never let themselves fell
+  close to anyone other than their Trainers.
+nationalPokedexNumbers:
+- 521
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy6/80.png
+  large: https://images.pokemontcg.io/xy6/80_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy6-80
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.05
+      mid: 0.21
+      high: 1.05
+      market: 0.13
+      directLow: 0.12
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.32
+      high: 5.0
+      market: 0.38
+      directLow: 0.1
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy6-80
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.2
+    lowPrice: 0.02
+    trendPrice: 0.15
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.05
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.34
+    lowPriceExPlus: 0.02
+    avg1: 0.49
+    avg7: 0.17
+    avg30: 0.12
+    reverseHoloAvg1: 0.05
+    reverseHoloAvg7: 0.41
+    reverseHoloAvg30: 0.32
